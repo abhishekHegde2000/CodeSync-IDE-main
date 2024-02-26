@@ -18,15 +18,11 @@ Our front end is built with React, providing a smooth and responsive user experi
 ### 💡 Why Collaborative Coding Matters 💡
 In today's world, where remote work and distributed teams are the norm, tools that foster collaboration are essential. The Collaborative Code Compiler aims to bridge the geographical gap between developers, making it easier than ever to work together seamlessly.
 
-## 🔗 Try It Out! 🔗
-
-### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨: https://codesyncide.vercel.app
-
-### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛: https://github.com/keshavop/CodeSync-IDE
+### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛: https://github.com/abhishekHegde2000/CodeSync-IDE
 
 <br>
 
 ### Demo 🧑‍💻
-https://github.com/keshavop/CodeSync-IDE/assets/71931145/b4ff3e9c-e8ec-4cd8-8298-bd04e00d7ffe
 
+https://github.com/abhishekHegde2000/CodeSync-IDE-main/assets/88794340/06c83258-56d2-4aa5-a581-748736e59a81
 
